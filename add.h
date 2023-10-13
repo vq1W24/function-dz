@@ -1,0 +1,1 @@
+double multiplyOrAdd(bool,double,double);
